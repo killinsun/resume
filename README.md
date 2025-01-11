@@ -1,8 +1,8 @@
-# { name } resume
+# Ryota Takeuchi resume
 
-## Sample
+## Web Page
 
-https://github.com/kawamataryo/resume
+https://killinsun.github.io/resume/
 
 ## Features
 
