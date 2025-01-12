@@ -9,6 +9,7 @@
 |Twitter|[@Kill_In_Sun](https://x.com/Kill_In_Sun)|
 |Qiita|[Kill_In_Sun](https://qiita.com/Kill_In_Sun)|
 |Zenn|[killinsun](https://zenn.dev/killinsun)|
+|Blog|[お首が長いのよ](https://blog.killinsun.com)|
 
 ---
 
@@ -70,7 +71,26 @@
 |<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />|3年|
 |<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|3年|
 |<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
-|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|5年|
+
+
+|インフラ|業務経験|
+|---|---|
+|<img alt="AWS Fargate" src="https://img.shields.io/badge/-AWS Fargate-FF9900?style=flat-square&logo=awsfargate&logoColor=white" />|3年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|3年|
+|<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />|5年|
+|<img alt="OpenSearch" src="https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />|1年|
+|<img alt="Qdrant" src="https://img.shields.io/badge/-Qdrant-E1E4F0?style=flat-square&logo=qdrant&logoColor=white" />|2年|
+
+## OSS 活動
+
+
+|リポジトリ|活動内容|
+|---|---|
+|[alfonsrv/mail-parser-reply](https://github.com/alfonsrv/mail-parser-reply)|日本語対応,バグフィックスなど|
+|[langchain-ai/langchain](https://github.com/langchain-ai/langchain)|機能追加、ドキュメント修正、バグフィックスなど|
+|[mnao305/fantia-dl-tool](https://github.com/mnao305/fantia-dl-tool)|バグフィックス|
+|[EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro)|バグフィックス|
+|[PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)|Issue起票(bug報告)|
 
 
 ---
@@ -225,4 +245,9 @@
 - 私の家族はさまざまな事情で子供を授かる予定はないですが、個人資産を十分に蓄えて妻に不自由ない生活ができるようにした後は、世の中の子供達へ積極的に支援をしたいと考えています。<br/>
 	その時の手段として、金銭的な力があればあるほど有利になると考えています。<br/>
 	なるべく早く個人資産を蓄え、世の中に還元していきたいと考えているためです
+
+
+## 連絡先
+
+noneck.0311@gmail.com
 
