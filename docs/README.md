@@ -86,7 +86,7 @@
 
 |リポジトリ|活動内容|
 |---|---|
-|[alfonsrv/mail-parser-reply](https://github.com/alfonsrv/mail-parser-reply)|日本語対応,バグフィックスなど|
+|[alfonsrv/mail-parser-reply](https://github.com/alfonsrv/mail-parser-reply)|日本語対応、バグフィックスなど|
 |[langchain-ai/langchain](https://github.com/langchain-ai/langchain)|機能追加、ドキュメント修正、バグフィックスなど|
 |[mnao305/fantia-dl-tool](https://github.com/mnao305/fantia-dl-tool)|バグフィックス|
 |[EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro)|バグフィックス|
